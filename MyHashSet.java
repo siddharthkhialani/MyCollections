@@ -11,7 +11,7 @@ import java.util.Set;
  *
  * @param <T>
  */
-blic class MyHashSet<T> extends AbstractSet<T> implements Set<T>, Cloneable,
+public class MyHashSet<T> extends AbstractSet<T> implements Set<T>, Cloneable,
 		Serializable {
 
 	/**
