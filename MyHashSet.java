@@ -1,3 +1,4 @@
+
 import java.io.Serializable;
 import java.util.AbstractSet;
 import java.util.Iterator;
@@ -10,7 +11,7 @@ import java.util.Set;
  *
  * @param <T>
  */
-public class MyHashSet<T> extends AbstractSet<T> implements Set<T>, Cloneable,
+blic class MyHashSet<T> extends AbstractSet<T> implements Set<T>, Cloneable,
 		Serializable {
 
 	/**
